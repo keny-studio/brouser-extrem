@@ -1,0 +1,26 @@
+{
+  "_comment": "Change tab_text rgb value for different active tab text color",
+  "name": "KENY.STUDIO - stereo",
+  "description": "KENY.STUDIO - Left & Right, Black & White",
+  "manifest_version": 2,
+  "theme": {
+    "colors": {
+      "tab_text": [255, 255, 255],
+      "tab_background_text": [120, 120, 120],
+      "bookmark_text": [120, 120, 120],
+      "button_background": [0, 0, 0],
+      "frame": [0, 0, 0],
+      "frame_inactive": [0, 0, 0],
+      "ntp_background": [0, 0, 0],
+      "ntp_link": [150, 150, 150],
+      "ntp_text": [150, 150, 150],
+      "toolbar": [0, 0, 0],
+      "omnibox_background": [0, 0, 0]
+    },
+    "tints": {
+      "buttons": [255, 255, 255]
+    }
+  },
+  "update_url": "https://clients2.google.com/service/update2/crx",
+  "version": "1.0.1"
+}
