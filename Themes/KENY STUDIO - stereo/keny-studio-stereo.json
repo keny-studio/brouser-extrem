@@ -2,6 +2,9 @@
   "_comment": "Change tab_text rgb value for different active tab text color",
   "name": "KENY.STUDIO - stereo",
   "description": "KENY.STUDIO - stereo Theme",
+    "icons": {
+    "128": "icon.png"
+  },
   "manifest_version": 3,
   
   "theme": {
