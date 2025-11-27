@@ -1,3 +1,3 @@
 # brouser-extrem
-## $${\color{gold}BROuser \space EXT rem}$$ - Browser Extensions for Extreme Users
+## $${\color{red}BROuser \space EXT rem}$$ - Browser Extensions and Themes for Extreme Users
 
