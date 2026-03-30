@@ -78,3 +78,11 @@ javascript:(function() {  var currentSite = window.location.hostname;  var redir
 ```javascript
 javascript:(function(){  localStorage.clear();  sessionStorage.clear();  alert('Cache cleared!');})();
 ```
+
+- Tiny URL maker
+
+```javascript
+void(open('http://tinyurl.com/create.php?url=%27+encodeURIComponent(location.href)))
+```
+javascript:(function(){  localStorage.clear();  sessionStorage.clear();  alert('Cache cleared!');})();
+```
